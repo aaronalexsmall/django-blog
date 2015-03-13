@@ -1,0 +1,8 @@
+dj-database-url==0.3.0
+Django==1.7.6
+gnureadline==6.3.3
+ipdb==0.8
+ipython==3.0.0
+waitress==0.8.9
+whitenoise==1.0.6
+psycopg2==2.5.3
